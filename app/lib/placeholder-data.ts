@@ -46,6 +46,12 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '99D07535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Bill Browne',
+    email: 'billwilliam@browne.com',
+    image_url: '/customers/balazs-orban.png',
+  },
 ];
 
 const invoices = [
